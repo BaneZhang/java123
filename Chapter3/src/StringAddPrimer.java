@@ -8,7 +8,7 @@ public class StringAddPrimer {
 		String str5 = "我们可以使用空字符串将两个变量分开" + a + "" + b;
 		System.out.println(str1);
 		System.out.println(str2);
-		System.out.println(str3`);
+		System.out.println(str3);
 		System.out.println(str4);
 		System.out.println(str5);
 	}
