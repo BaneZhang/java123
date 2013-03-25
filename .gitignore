@@ -6,5 +6,5 @@
 *.ear
 
 #IntelliJ IDEA
-.*
-out
+.idea/
+out/
