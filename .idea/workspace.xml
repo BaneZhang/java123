@@ -2,36 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15b0c89e-cee8-4265-81c0-8e387afbec67" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter3/src/BooleanEqual.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter3/src/CompareUsingSub.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter3/src/Exercise/Exercise1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter3/src/Exercise/Exercise2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter3/src/Exercise/Exercise3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter3/src/Exercise/Exercise4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter3/src/Exercise/Exercise5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter3/src/ForceConvert.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter3/src/ForceConvert2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter3/src/StringAddPrimer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter3/src/UsingChar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter4/src/CountScrip.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter4/src/Exercise/Exercise1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter4/src/Exercise/Exercise2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter4/src/Exercise/Exercise3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter4/src/Exercise/Exercise4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter4/src/ReadConsoleInput.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter4/src/UsingSwitch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter5/src/Exercise/Exercise1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter5/src/Exercise/Exercise2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter5/src/Exercise/Exercise3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter5/src/MultiDimensionalArray.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="java123.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/TestManyMethod.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364199948461" ignored="false" />
-    <file path="/Dummy.txt" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364221621045" ignored="false" />
+    <file path="/Dummy.txt" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364223153874" ignored="false" />
     <file path="/Bus.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364203482811" ignored="false" />
     <file path="/RaceCar.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364206988832" ignored="false" />
     <file path="/Car.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364207202483" ignored="false" />
@@ -110,7 +86,7 @@
       <file leaf-file-name="TestManyMethod.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter7/src/TestManyMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="45" selection-start="493" selection-end="493" vertical-scroll-proportion="0.29871976">
+            <state line="8" column="137" selection-start="316" selection-end="316" vertical-scroll-proportion="0.17069702">
               <folding />
             </state>
           </provider>
@@ -178,7 +154,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -214,6 +189,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,12 +205,12 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -469,7 +445,6 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923076" sideWeight="0.49682683" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26017028" sideWeight="0.336" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26017028" sideWeight="0.344" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -481,6 +456,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -624,14 +600,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java123.git.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="44" selection-start="214" selection-end="214" vertical-scroll-proportion="0.08534851">
-          <folding />
-        </state>
+        <state line="4" column="44" selection-start="214" selection-end="214" vertical-scroll-proportion="0.08534851" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter7/src/TestManyMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="45" selection-start="493" selection-end="493" vertical-scroll-proportion="0.29871976">
+        <state line="8" column="137" selection-start="316" selection-end="316" vertical-scroll-proportion="0.17069702">
           <folding />
         </state>
       </provider>
