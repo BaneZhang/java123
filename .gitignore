@@ -1,5 +1,4 @@
 *.class
-.DS_Store
 
 # Package Files #
 *.jar
@@ -7,4 +6,4 @@
 *.ear
 
 #IntelliJ IDEA
-/.idea
+.*
