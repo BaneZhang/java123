@@ -26,7 +26,7 @@ public class UseStringMethod {
         String str2 = str1;
         System.out.println("str1与str2是否指向同一个对象？" + (str1 == str2));
 
-        //字符串前后缀
+        // 字符串前后缀
         System.out.println("\"Mr Zhang\"是否\"Mr\"作为前缀吗？" + "Mr Zhang".startsWith("Mr"));
         System.out.println("\"Mr Zhang\"是否\"g\"作为后缀吗？" + "Mr Zhang".endsWith("g"));
 
