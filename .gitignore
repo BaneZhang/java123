@@ -10,3 +10,6 @@
 .idea/tasks.xml
 out/
 
+#Mac
+.DS_Store
+
