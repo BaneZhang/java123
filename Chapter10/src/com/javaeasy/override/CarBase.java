@@ -25,6 +25,7 @@ public class CarBase {
     }
 
     public void followSpeed(CarBase car) {
+        System.out.println("调用者的类型是：" + this.getClass().getName());
         int newSpeed = car.speed;
         if (newSpeed > this.speed) {
             speedUp(newSpeed - this.speed);
