@@ -1,9 +1,9 @@
-package com.javaeasy.learnextends;
+package com.javaeasy.override;
 
 /**
  * User: Bane
- * Date: 13-3-27
- * Time: 21:29
+ * Date: 13-3-28
+ * Time: 15:50
  */
 public class ElectronicBus extends Bus {
     int carriageNumber = 2;

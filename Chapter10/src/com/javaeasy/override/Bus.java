@@ -1,13 +1,14 @@
-package com.javaeasy.learnextends;
+package com.javaeasy.override;
 
 /**
  * User: Bane
- * Date: 13-3-27
- * Time: 21:09
+ * Date: 13-3-28
+ * Time: 15:45
  */
 public class Bus extends CarBase {
     public int max_Passenger = 35;
     public int current_Passenger = 0;
+    public int max_slow = 27;
 
     public Bus() {
         System.out.println("Bus类的构造方法被调用了！");
@@ -19,6 +20,14 @@ public class Bus extends CarBase {
         this.max_Passenger = max_Passenger;
 
         System.out.println("Bus类有参数的构造方法被调用了！");
+    }
+
+    public void slowDown(int p_speed) {
+        System.out.println("Bus类中定义的slowDown(int)方法被调用了。");
+        if (p_speed > max_slow) {
+            p_speed = max_slow;
+        }
+        super.slowDown(p_speed);
     }
 
     public boolean getOnBus(int p_amout) {

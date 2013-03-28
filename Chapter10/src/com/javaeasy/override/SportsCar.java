@@ -1,12 +1,13 @@
-package com.javaeasy.learnextends;
+package com.javaeasy.override;
 
 /**
  * User: Bane
- * Date: 13-3-27
- * Time: 21:14
+ * Date: 13-3-28
+ * Time: 15:41
  */
-public class SportsCar extends CarBase {
+public class SportsCar extends CarBase{
     public int nAmout = 90; //氮气剩余量
+    public int autoUsingN = 5;
 
     public SportsCar() {
         System.out.println("SportsCar类的构造方法被调用了！");
@@ -17,6 +18,17 @@ public class SportsCar extends CarBase {
         nAmout = amount;
 
         System.out.println("SportsCar类有参数的构造方法被调用了！");
+    }
+
+    public void speedUp(int p_speed) {
+        System.out.println("SportsCar类中定义的speedUp(int)方法被调用了。");
+        if (nAmout >= autoUsingN) {
+            nAmout -= autoUsingN;
+        } else {
+            nAmout = 0;
+        }
+
+        super.speedUp(p_speed);
     }
 
     public void speedUpUsingN(int p_amout) {
@@ -41,4 +53,5 @@ public class SportsCar extends CarBase {
             nAmout += p_amout;
         }
     }
+
 }
