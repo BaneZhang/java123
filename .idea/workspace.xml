@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15b0c89e-cee8-4265-81c0-8e387afbec67" name="Default" comment="第13.1示例">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/DuplicatedName.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseInnerClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseInnerClassOutside.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseMembers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseStaticInnerClass.java" />
+    <list default="true" id="15b0c89e-cee8-4265-81c0-8e387afbec67" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter13/src/exercise/ExerciseIII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter13/src/exercise/ExerciseOutClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter13/src/exercise/IExercise.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter13/src/exercise/MyAbstractClass.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="java123.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/TestManyMethod.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364199948461" ignored="false" />
-    <file path="/Dummy.txt" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364960729456" ignored="false" />
+    <file path="/Dummy.txt" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364960826460" ignored="false" />
     <file path="/Bus.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364203482811" ignored="false" />
     <file path="/RaceCar.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364206988832" ignored="false" />
     <file path="/Car.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364207202483" ignored="false" />
@@ -30,6 +29,10 @@
     <file path="/UseStaticInnerClass.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364892690522" ignored="false" />
     <file path="/UseMembers.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364960529934" ignored="false" />
     <file path="/DuplicatedName.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364960667026" ignored="false" />
+    <file path="/MyAbstractClass.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364972999018" ignored="false" />
+    <file path="/ExerciseOutClass.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364973076170" ignored="false" />
+    <file path="/IExercise.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364973120267" ignored="false" />
+    <file path="/ExerciseIII.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364973190616" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,47 +91,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="UseInnerClassOutside.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseInnerClassOutside.java">
+      <file leaf-file-name="MyAbstractClass.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter13/src/exercise/MyAbstractClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="42" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
+            <state line="11" column="1" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UseInnerClass.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseInnerClass.java">
+      <file leaf-file-name="ExerciseOutClass.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter13/src/exercise/ExerciseOutClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="15" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
+            <state line="9" column="0" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UseStaticInnerClass.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseStaticInnerClass.java">
+      <file leaf-file-name="IExercise.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter13/src/exercise/IExercise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="5" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0">
+            <state line="8" column="25" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UseMembers.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseMembers.java">
+      <file leaf-file-name="ExerciseIII.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter13/src/exercise/ExerciseIII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="121" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DuplicatedName.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/DuplicatedName.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="327" selection-end="327" vertical-scroll-proportion="0.28301886">
-              <folding />
+            <state line="17" column="0" selection-start="358" selection-end="358" vertical-scroll-proportion="0.26046985">
+              <folding>
+                <element signature="e#156#348#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,10 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Chapter7/src/TestManyMethod.java" />
-        <option value="$PROJECT_DIR$/Chapter8/src/common/Bus.java" />
-        <option value="$PROJECT_DIR$/Chapter8/src/common/special/RaceCar.java" />
-        <option value="$PROJECT_DIR$/Chapter8/src/common/RaceCar.java" />
         <option value="$PROJECT_DIR$/Chapter8/src/common/Car.java" />
         <option value="$PROJECT_DIR$/Chapter8/src/com/D.java" />
         <option value="$PROJECT_DIR$/Chapter8/src/com/exercises/Exercise3.java" />
@@ -168,6 +161,10 @@
         <option value="$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseInnerClassOutside.java" />
         <option value="$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseMembers.java" />
         <option value="$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/DuplicatedName.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/exercise/MyAbstractClass.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/exercise/ExerciseOutClass.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/exercise/IExercise.java" />
+        <option value="$PROJECT_DIR$/Chapter13/src/exercise/ExerciseIII.java" />
       </list>
     </option>
   </component>
@@ -233,6 +230,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Chapter13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java123.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java123.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercise" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -556,7 +575,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1638207" sideWeight="0.22403258" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1638207" sideWeight="0.67107946" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15989584" sideWeight="0.67107946" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34623218" sideWeight="0.49682683" order="5" side_tool="false" content_ui="tabs" x="444" y="499" width="1103" height="220" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -608,7 +627,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="第13.1示例" />
+    <option name="LAST_COMMIT_MESSAGE" value="第13.2和13.3示例" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -623,6 +642,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="第8章示例和习题" />
     <MESSAGE value="第13.1示例" />
+    <MESSAGE value="第13.2和13.3示例" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -632,28 +652,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter8/src/com/exercises/subpackage/F.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="14" selection-start="104" selection-end="104" vertical-scroll-proportion="0.1688103" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter8/src/common/Bus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="39" selection-start="193" selection-end="193" vertical-scroll-proportion="0.31350482" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter8/src/common/RaceCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="11" selection-start="106" selection-end="106" vertical-scroll-proportion="0.19292605" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter8/src/com/exercises/Exercise3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="30" selection-start="45" selection-end="45" vertical-scroll-proportion="0.12802276">
@@ -731,8 +729,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/DuplicatedName.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="327" selection-end="327" vertical-scroll-proportion="0.28301886">
+        <state line="17" column="1" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/exercise/MyAbstractClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="1" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/exercise/ExerciseOutClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/exercise/IExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="25" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter13/src/exercise/ExerciseIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="358" selection-end="358" vertical-scroll-proportion="0.26046985">
+          <folding>
+            <element signature="e#156#348#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
