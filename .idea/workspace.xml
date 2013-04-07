@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15b0c89e-cee8-4265-81c0-8e387afbec67" name="Default" comment="第14.1~3节示例">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter14/src/exercises/Exercise1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter14/src/exercises/Exercise3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter14/src/exercises/TestException.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/DesignCupMain.java" afterPath="$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/DesignCupMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="15b0c89e-cee8-4265-81c0-8e387afbec67" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/Chapter15.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/currentthread/CurrentThreadMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/currentthread/CurrentThreadMainII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/usethread/MyRunnable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/usethread/MyThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/currentthread/PrintCurrentThreadName.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/threadname/ShowThreadName.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/threadname/ShowThreadNameMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/usethread/UseMyRunnable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/usethread/UseMyThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="java123.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/TestManyMethod.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364199948461" ignored="false" />
-    <file path="/Dummy.txt" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365322762844" ignored="false" />
+    <file path="/Dummy.txt" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365322959417" ignored="false" />
     <file path="/Bus.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364203482811" ignored="false" />
     <file path="/RaceCar.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364206988832" ignored="false" />
     <file path="/Car.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364207202483" ignored="false" />
@@ -42,6 +48,15 @@
     <file path="/fragment.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365322382404" ignored="false" />
     <file path="/Exercise1.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365322543233" ignored="false" />
     <file path="/TestException.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365322658598" ignored="false" />
+    <file path="/MyThread.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365327067237" ignored="false" />
+    <file path="/UseMyThread.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365327124048" ignored="false" />
+    <file path="/MyRunnable.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365328099717" ignored="false" />
+    <file path="/UseMyRunnable.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365328283943" ignored="false" />
+    <file path="/ShowThreadName.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365329993999" ignored="false" />
+    <file path="/ShowThreadNameMain.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365330167358" ignored="false" />
+    <file path="/PrintCurrentThreadName.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365330312298" ignored="false" />
+    <file path="/CurrentThreadMain.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365330434377" ignored="false" />
+    <file path="/CurrentThreadMainII.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365330554899" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,74 +120,89 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CapacityTooSmallException.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CapacityTooSmallException.java">
+      <file leaf-file-name="MyThread.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/usethread/MyThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="43" selection-start="192" selection-end="198" vertical-scroll-proportion="0.0">
+            <state line="9" column="43" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CapacityTooBigException.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CapacityTooBigException.java">
+      <file leaf-file-name="UseMyThread.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/usethread/UseMyThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="25" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
+            <state line="10" column="25" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cup.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/Cup.java">
+      <file leaf-file-name="MyRunnable.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/usethread/MyRunnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="27" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
+            <state line="9" column="43" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CupDesigner.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CupDesigner.java">
+      <file leaf-file-name="UseMyRunnable.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/usethread/UseMyRunnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="105" selection-start="292" selection-end="315" vertical-scroll-proportion="0.0">
+            <state line="22" column="0" selection-start="492" selection-end="492" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#311#457#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShowThreadName.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/threadname/ShowThreadName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="57" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DesignCupMain.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/DesignCupMain.java">
+      <file leaf-file-name="ShowThreadNameMain.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/threadname/ShowThreadNameMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="51" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0">
+            <state line="11" column="0" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise1.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter14/src/exercises/Exercise1.java">
+      <file leaf-file-name="PrintCurrentThreadName.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/currentthread/PrintCurrentThreadName.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="45" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0">
+            <state line="12" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestException.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter14/src/exercises/TestException.java">
+      <file leaf-file-name="CurrentThreadMain.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/currentthread/CurrentThreadMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="51" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+            <state line="10" column="56" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise3.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter14/src/exercises/Exercise3.java">
+      <file leaf-file-name="CurrentThreadMainII.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/currentthread/CurrentThreadMainII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="43" selection-start="288" selection-end="288" vertical-scroll-proportion="0.33280507">
-              <folding />
+            <state line="17" column="23" selection-start="530" selection-end="530" vertical-scroll-proportion="0.40412045">
+              <folding>
+                <element signature="e#198#451#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -196,15 +226,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseStaticInnerClass.java" />
-        <option value="$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseInnerClassOutside.java" />
-        <option value="$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseMembers.java" />
-        <option value="$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/DuplicatedName.java" />
-        <option value="$PROJECT_DIR$/Chapter13/src/exercise/MyAbstractClass.java" />
-        <option value="$PROJECT_DIR$/Chapter13/src/exercise/ExerciseOutClass.java" />
-        <option value="$PROJECT_DIR$/Chapter13/src/exercise/IExercise.java" />
-        <option value="$PROJECT_DIR$/Chapter13/src/exercise/ExerciseIII.java" />
-        <option value="$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CapacityTooSmallException.java" />
         <option value="$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CapacityTooBigException.java" />
         <option value="$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/Cup.java" />
         <option value="$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CupDesigner.java" />
@@ -212,6 +233,15 @@
         <option value="$PROJECT_DIR$/Chapter14/src/exercises/Exercise1.java" />
         <option value="$PROJECT_DIR$/Chapter14/src/exercises/TestException.java" />
         <option value="$PROJECT_DIR$/Chapter14/src/exercises/Exercise3.java" />
+        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/usethread/MyThread.java" />
+        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/usethread/UseMyThread.java" />
+        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/usethread/MyRunnable.java" />
+        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/usethread/UseMyRunnable.java" />
+        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/threadname/ShowThreadName.java" />
+        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/threadname/ShowThreadNameMain.java" />
+        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/currentthread/PrintCurrentThreadName.java" />
+        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/currentthread/CurrentThreadMain.java" />
+        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/currentthread/CurrentThreadMainII.java" />
       </list>
     </option>
   </component>
@@ -275,7 +305,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter14" />
+              <option name="myItemId" value="Chapter15" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -289,7 +319,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter14" />
+              <option name="myItemId" value="Chapter15" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -297,7 +327,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="exercises" />
+              <option name="myItemId" value="javaeasy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -311,7 +341,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter14" />
+              <option name="myItemId" value="Chapter15" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -319,7 +349,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="selfdefineexception" />
+              <option name="myItemId" value="javaeasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="threadname" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java123.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java123.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaeasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="currentthread" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -355,10 +415,15 @@
       <recent name="$PROJECT_DIR$/Chapter1/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DesignCupMain">
-    <configuration default="false" name="TestManyMethod" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="TestManyMethod" />
+  <component name="RunManager" selected="Application.CurrentThreadMainII">
+    <configuration default="false" name="UseMyThread" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javaeasy.usethread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.javaeasy.usethread.UseMyThread" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -367,20 +432,20 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter7" />
+      <module name="Chapter15" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Car" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="UseMyRunnable" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="common.*" />
+          <option name="PATTERN" value="com.javaeasy.usethread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="common.Car" />
+      <option name="MAIN_CLASS_NAME" value="com.javaeasy.usethread.UseMyRunnable" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -389,20 +454,20 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter8" />
+      <module name="Chapter15" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="UseInnerClass" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="ShowThreadNameMain" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.javaeasy.innerclass.*" />
+          <option name="PATTERN" value="com.javaeasy.threadname.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.javaeasy.innerclass.UseInnerClass" />
+      <option name="MAIN_CLASS_NAME" value="com.javaeasy.threadname.ShowThreadNameMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -411,20 +476,20 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter13" />
+      <module name="Chapter15" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="UseStaticInnerClass" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="CurrentThreadMain" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.javaeasy.innerclass.*" />
+          <option name="PATTERN" value="com.javaeasy.currentthread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.javaeasy.innerclass.UseStaticInnerClass" />
+      <option name="MAIN_CLASS_NAME" value="com.javaeasy.currentthread.CurrentThreadMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -433,33 +498,31 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter13" />
+      <module name="Chapter15" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="DesignCupMain" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="CurrentThreadMainII" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.javaeasy.selfdefineexception.*" />
+          <option name="PATTERN" value="com.javaeasy.currentthread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.javaeasy.selfdefineexception.DesignCupMain" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="99999" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="MAIN_CLASS_NAME" value="com.javaeasy.currentthread.CurrentThreadMainII" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter14" />
+      <module name="Chapter15" />
       <envs />
-      <RunnerSettings RunnerId="Cover" />
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Cover" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -521,19 +584,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestManyMethod" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Car" />
-      <item index="2" class="java.lang.String" itemvalue="Application.UseInnerClass" />
-      <item index="3" class="java.lang.String" itemvalue="Application.UseStaticInnerClass" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DesignCupMain" />
+      <item index="0" class="java.lang.String" itemvalue="Application.UseMyThread" />
+      <item index="1" class="java.lang.String" itemvalue="Application.UseMyRunnable" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ShowThreadNameMain" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CurrentThreadMain" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CurrentThreadMainII" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DesignCupMain" />
-        <item index="1" class="java.lang.String" itemvalue="Application.UseStaticInnerClass" />
-        <item index="2" class="java.lang.String" itemvalue="Application.UseInnerClass" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestManyMethod" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Car" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CurrentThreadMainII" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CurrentThreadMain" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ShowThreadNameMain" />
+        <item index="3" class="java.lang.String" itemvalue="Application.UseMyRunnable" />
+        <item index="4" class="java.lang.String" itemvalue="Application.UseMyThread" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -607,7 +670,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1638207" sideWeight="0.22403258" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15989584" sideWeight="0.65441906" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34558094" sideWeight="0.49682683" order="5" side_tool="false" content_ui="tabs" x="444" y="499" width="1103" height="220" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34558094" sideWeight="0.49682683" order="5" side_tool="false" content_ui="tabs" x="444" y="499" width="1103" height="220" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -657,7 +720,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="第14.1~3节示例" />
+    <option name="LAST_COMMIT_MESSAGE" value="第14.4~5节示例和习题" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -675,6 +738,7 @@
     <MESSAGE value="第13.2和13.3示例" />
     <MESSAGE value="第13章习题" />
     <MESSAGE value="第14.1~3节示例" />
+    <MESSAGE value="第14.4~5节示例和习题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -684,60 +748,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseInnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="15" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseStaticInnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="5" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseMembers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="121" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/DuplicatedName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="1" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter13/src/exercise/MyAbstractClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="1" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter13/src/exercise/ExerciseOutClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter13/src/exercise/IExercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="25" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter13/src/exercise/ExerciseIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="358" selection-end="358" vertical-scroll-proportion="0.26046985" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CapacityTooBigException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="25" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/Cup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="27" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CupDesigner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="105" selection-start="292" selection-end="315" vertical-scroll-proportion="0.0">
@@ -775,8 +785,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter14/src/exercises/Exercise3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="43" selection-start="288" selection-end="288" vertical-scroll-proportion="0.33280507">
+        <state line="18" column="0" selection-start="310" selection-end="310" vertical-scroll-proportion="0.27579162">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/usethread/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="43" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/usethread/UseMyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="25" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/Runnable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="17" selection-start="156" selection-end="156" vertical-scroll-proportion="0.118858956">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/usethread/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="43" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/usethread/UseMyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="492" selection-end="492" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#311#457#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/threadname/ShowThreadName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="57" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/threadname/ShowThreadNameMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="284" selection-end="284" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/currentthread/PrintCurrentThreadName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/currentthread/CurrentThreadMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="56" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/currentthread/CurrentThreadMainII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="23" selection-start="530" selection-end="530" vertical-scroll-proportion="0.40412045">
+          <folding>
+            <element signature="e#198#451#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
