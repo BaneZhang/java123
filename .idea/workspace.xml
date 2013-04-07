@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15b0c89e-cee8-4265-81c0-8e387afbec67" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CapacityTooBigException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CapacityTooSmallException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter14/Chapter14.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/Cup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CupDesigner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/DesignCupMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="15b0c89e-cee8-4265-81c0-8e387afbec67" name="Default" comment="第14.1~3节示例">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter14/src/exercises/Exercise1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter14/src/exercises/Exercise3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter14/src/exercises/TestException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/DesignCupMain.java" afterPath="$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/DesignCupMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="java123.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/TestManyMethod.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364199948461" ignored="false" />
-    <file path="/Dummy.txt" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364973284902" ignored="false" />
+    <file path="/Dummy.txt" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365322762844" ignored="false" />
     <file path="/Bus.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364203482811" ignored="false" />
     <file path="/RaceCar.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364206988832" ignored="false" />
     <file path="/Car.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364207202483" ignored="false" />
-    <file path="/a.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364215424334" ignored="false" />
+    <file path="/a.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365322287521" ignored="false" />
     <file path="/D.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364215979480" ignored="false" />
-    <file path="/Exercise3.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364216148140" ignored="false" />
+    <file path="/Exercise3.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365322746079" ignored="false" />
     <file path="/File Header.txt.ft" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364221362094" ignored="false" />
     <file path="/ActionScript File Header.txt.ft" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364221371816" ignored="false" />
     <file path="/Person.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364885570835" ignored="false" />
@@ -40,8 +38,10 @@
     <file path="/CapacityTooBigException.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364983794916" ignored="false" />
     <file path="/Cup.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364984052719" ignored="false" />
     <file path="/CupDesigner.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364984261208" ignored="false" />
-    <file path="/DesignCupMain.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364984505060" ignored="false" />
-    <file path="/fragment.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364984776083" ignored="false" />
+    <file path="/DesignCupMain.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365322040988" ignored="false" />
+    <file path="/fragment.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365322382404" ignored="false" />
+    <file path="/Exercise1.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365322543233" ignored="false" />
+    <file path="/TestException.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365322658598" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/java123.git$DesignCupMain.coverage" NAME="DesignCupMain Coverage Results" MODIFIED="1365322229541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.javaeasy.selfdefineexception.*</FILTER>
+    </SUITE>
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -103,7 +108,7 @@
       <file leaf-file-name="CapacityTooSmallException.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CapacityTooSmallException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="23" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
+            <state line="8" column="43" selection-start="192" selection-end="198" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -121,7 +126,7 @@
       <file leaf-file-name="Cup.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/Cup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="34" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
+            <state line="15" column="27" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -130,16 +135,43 @@
       <file leaf-file-name="CupDesigner.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CupDesigner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="57" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0">
+            <state line="14" column="105" selection-start="292" selection-end="315" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DesignCupMain.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="DesignCupMain.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/DesignCupMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="637" selection-end="637" vertical-scroll-proportion="0.5467512">
+            <state line="24" column="51" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter14/src/exercises/Exercise1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="45" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestException.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter14/src/exercises/TestException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="51" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise3.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter14/src/exercises/Exercise3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="43" selection-start="288" selection-end="288" vertical-scroll-proportion="0.33280507">
               <folding />
             </state>
           </provider>
@@ -164,9 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Chapter13/src/com/javaeasy/learnabstractclass/Schoolmaster.java" />
-        <option value="$PROJECT_DIR$/Chapter13/src/com/javaeasy/learnabstractclass/Person.java" />
-        <option value="$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseInnerClass.java" />
         <option value="$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseStaticInnerClass.java" />
         <option value="$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseInnerClassOutside.java" />
         <option value="$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseMembers.java" />
@@ -180,6 +209,9 @@
         <option value="$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/Cup.java" />
         <option value="$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CupDesigner.java" />
         <option value="$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/DesignCupMain.java" />
+        <option value="$PROJECT_DIR$/Chapter14/src/exercises/Exercise1.java" />
+        <option value="$PROJECT_DIR$/Chapter14/src/exercises/TestException.java" />
+        <option value="$PROJECT_DIR$/Chapter14/src/exercises/Exercise3.java" />
       </list>
     </option>
   </component>
@@ -215,7 +247,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -266,6 +297,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java123.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java123.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="selfdefineexception" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -273,15 +326,16 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.30000004" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="reference.projectsettings.compiler.rmicompiler" />
+    <property name="options.lastSelected" value="preferences.intentionPowerPack" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -289,12 +343,12 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -403,7 +457,9 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Chapter14" />
       <envs />
+      <RunnerSettings RunnerId="Cover" />
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Cover" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -534,7 +590,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286991" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -546,11 +602,12 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1638207" sideWeight="0.22403258" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892057" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.65441906" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1638207" sideWeight="0.22403258" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15989584" sideWeight="0.65441906" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34558094" sideWeight="0.49682683" order="5" side_tool="false" content_ui="tabs" x="444" y="499" width="1103" height="220" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34558094" sideWeight="0.49682683" order="5" side_tool="false" content_ui="tabs" x="444" y="499" width="1103" height="220" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -600,7 +657,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="第13章习题" />
+    <option name="LAST_COMMIT_MESSAGE" value="第14.1~3节示例" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -617,6 +674,7 @@
     <MESSAGE value="第13.1示例" />
     <MESSAGE value="第13.2和13.3示例" />
     <MESSAGE value="第13章习题" />
+    <MESSAGE value="第14.1~3节示例" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -626,91 +684,44 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter13/src/com/javaeasy/learnabstractclass/Schoolmaster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="58" selection-start="297" selection-end="297" vertical-scroll-proportion="0.19918284">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter13/src/com/javaeasy/learnabstractclass/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="41" selection-start="389" selection-end="389" vertical-scroll-proportion="0.33707866">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseInnerClassOutside.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="42" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseInnerClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="15" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="6" column="15" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseStaticInnerClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="5" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="13" column="5" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/UseMembers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="121" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="13" column="121" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter13/src/com/javaeasy/innerclass/DuplicatedName.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="1" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="17" column="1" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter13/src/exercise/MyAbstractClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="1" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="11" column="1" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter13/src/exercise/ExerciseOutClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="9" column="0" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter13/src/exercise/IExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="25" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="8" column="25" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter13/src/exercise/ExerciseIII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="358" selection-end="358" vertical-scroll-proportion="0.26046985">
-          <folding>
-            <element signature="e#156#348#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CapacityTooSmallException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="23" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="17" column="0" selection-start="358" selection-end="358" vertical-scroll-proportion="0.26046985" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CapacityTooBigException.java">
@@ -722,21 +733,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/Cup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="34" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
+        <state line="15" column="27" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CupDesigner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="57" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0">
+        <state line="14" column="105" selection-start="292" selection-end="315" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/DesignCupMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="637" selection-end="637" vertical-scroll-proportion="0.5467512">
+        <state line="24" column="51" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter14/src/exercises/Exercise1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="45" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter14/src/com/javaeasy/selfdefineexception/CapacityTooSmallException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="43" selection-start="192" selection-end="198" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter14/src/exercises/TestException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="51" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter14/src/exercises/Exercise3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="43" selection-start="288" selection-end="288" vertical-scroll-proportion="0.33280507">
           <folding />
         </state>
       </provider>
@@ -781,6 +820,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -797,6 +837,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
