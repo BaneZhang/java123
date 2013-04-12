@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15b0c89e-cee8-4265-81c0-8e387afbec67" name="Default" comment="第14.4~5节示例和习题">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/ConsoleWriter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/simplecopier/Copier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/simplecopier/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/Exercise1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/Exercise2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/MyRunnable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/MyWriter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/waitnotify/Notifier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/simplecopier/OneCopierCopyShop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/multithreads/PrintNumberThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/multithreads/RunMultiPrintNumThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/simplecopier/SimpleCopyShop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/waitnotify/SimpleWaitNotify.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/simplecopier/UseSyncCopierCopyShop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter15/src/com/javaeasy/waitnotify/Waiting.java" />
+    <list default="true" id="15b0c89e-cee8-4265-81c0-8e387afbec67" name="Default" comment="第15.4~5示例和第15章习题">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter17/src/com/javaeasy/learnstring/ByteArrToString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter17/Chapter17.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter17/src/exercises/Exercise2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter17/src/exercises/Exercise3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter17/src/exercises/Exercise4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter17/src/exercises/Exercise5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter17/src/exercises/Goods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter17/src/com/javaeasy/genericstypes/NoGenericsTypes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter17/src/com/javaeasy/learnchar/PrintCharCoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter17/src/com/javaeasy/learnchar/PrintCodeRange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter17/src/com/javaeasy/learnstring/StringToByteArr.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter17/src/com/javaeasy/compare/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter17/src/com/javaeasy/uselist/UseListMain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter17/src/com/javaeasy/usemap/UseMap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="java123.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/TestManyMethod.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364199948461" ignored="false" />
-    <file path="/Dummy.txt" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365415019341" ignored="false" />
+    <file path="/Dummy.txt" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365752952849" ignored="false" />
     <file path="/Bus.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364203482811" ignored="false" />
     <file path="/RaceCar.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364206988832" ignored="false" />
     <file path="/Car.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364207202483" ignored="false" />
     <file path="/a.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365322287521" ignored="false" />
     <file path="/D.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364215979480" ignored="false" />
-    <file path="/Exercise3.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365322746079" ignored="false" />
+    <file path="/Exercise3.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365752213483" ignored="false" />
     <file path="/File Header.txt.ft" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364221362094" ignored="false" />
     <file path="/ActionScript File Header.txt.ft" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364221371816" ignored="false" />
     <file path="/Person.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364885570835" ignored="false" />
-    <file path="/Student.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364885381453" ignored="false" />
+    <file path="/Student.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365736763631" ignored="false" />
     <file path="/Teacher.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364885460547" ignored="false" />
     <file path="/Schoolmaster.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364885535158" ignored="false" />
     <file path="/UseInnerClassOutside.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364891437573" ignored="false" />
@@ -49,7 +49,7 @@
     <file path="/Cup.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364984052719" ignored="false" />
     <file path="/CupDesigner.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364984261208" ignored="false" />
     <file path="/DesignCupMain.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365322040988" ignored="false" />
-    <file path="/fragment.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365322382404" ignored="false" />
+    <file path="/fragment.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365740682785" ignored="false" />
     <file path="/Exercise1.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365414271319" ignored="false" />
     <file path="/TestException.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365322658598" ignored="false" />
     <file path="/MyThread.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365327067237" ignored="false" />
@@ -75,7 +75,17 @@
     <file path="/SimpleWaitNotify.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365414082881" ignored="false" />
     <file path="/ConsoleWriter.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365414980859" ignored="false" />
     <file path="/MyWriter.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365414750256" ignored="false" />
-    <file path="/Exercise2.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365414880104" ignored="false" />
+    <file path="/Exercise2.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365751143942" ignored="false" />
+    <file path="/UseListMain.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365653064104" ignored="false" />
+    <file path="/NoGenericsTypes.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365737915110" ignored="false" />
+    <file path="/UseMap.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365738848794" ignored="false" />
+    <file path="/PrintCharCoder.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365740269737" ignored="false" />
+    <file path="/PrintCodeRange.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365740570135" ignored="false" />
+    <file path="/StringToByteArr.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365748691017" ignored="false" />
+    <file path="/ByteArrToString.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365749047579" ignored="false" />
+    <file path="/Goods.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365750877947" ignored="false" />
+    <file path="/Exercise4.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365752475746" ignored="false" />
+    <file path="/Exercise5.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365752939646" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,28 +149,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ConsoleWriter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/ConsoleWriter.java">
+      <file leaf-file-name="Goods.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter17/src/exercises/Goods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="24" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0">
+            <state line="41" column="18" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyWriter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/MyWriter.java">
+      <file leaf-file-name="Exercise2.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter17/src/exercises/Exercise2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="50" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0">
+            <state line="22" column="0" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#358#365#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise3.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter17/src/exercises/Exercise3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="48" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#353#360#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise4.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter17/src/exercises/Exercise4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="55" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#364#379#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise5.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter17/src/exercises/Exercise5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="0" selection-start="509" selection-end="509" vertical-scroll-proportion="0.3217569">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise2.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/Exercise2.java">
+      <file leaf-file-name="ByteArrToString.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter17/src/com/javaeasy/learnstring/ByteArrToString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="393" selection-end="393" vertical-scroll-proportion="0.37974682">
+            <state line="13" column="27" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -185,22 +231,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/threadsleep/TestAddingMain.java" />
-        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/multithreads/PrintNumberThread.java" />
-        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/multithreads/RunMultiPrintNumThread.java" />
-        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/simplecopier/SimpleCopyShop.java" />
-        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/simplecopier/Employee.java" />
-        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/simplecopier/OneCopierCopyShop.java" />
-        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/simplecopier/Copier.java" />
-        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/simplecopier/UseSyncCopierCopyShop.java" />
-        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/waitnotify/Waiting.java" />
-        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/waitnotify/Notifier.java" />
-        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/waitnotify/SimpleWaitNotify.java" />
-        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/MyRunnable.java" />
-        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/Exercise1.java" />
-        <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/MyWriter.java" />
         <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/Exercise2.java" />
         <option value="$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/ConsoleWriter.java" />
+        <option value="$PROJECT_DIR$/Chapter17/src/com/javaeasy/uselist/UseListMain.java" />
+        <option value="$PROJECT_DIR$/Chapter17/src/com/javaeasy/compare/Student.java" />
+        <option value="$PROJECT_DIR$/Chapter17/src/com/javaeasy/genericstypes/NoGenericsTypes.java" />
+        <option value="$PROJECT_DIR$/Chapter17/src/com/javaeasy/usemap/UseMap.java" />
+        <option value="$PROJECT_DIR$/Chapter17/src/com/javaeasy/learnchar/PrintCharCoder.java" />
+        <option value="$PROJECT_DIR$/Chapter17/src/com/javaeasy/learnchar/PrintCodeRange.java" />
+        <option value="$PROJECT_DIR$/Chapter17/src/com/javaeasy/learnstring/StringToByteArr.java" />
+        <option value="$PROJECT_DIR$/Chapter17/src/com/javaeasy/learnstring/ByteArrToString.java" />
+        <option value="$PROJECT_DIR$/Chapter17/src/com/javaeasy/compare/Exercise2.java" />
+        <option value="$PROJECT_DIR$/Chapter17/src/exercises/Exercise2.java" />
+        <option value="$PROJECT_DIR$/Chapter17/src/exercises/Goods.java" />
+        <option value="$PROJECT_DIR$/Chapter17/src/exercises/Exercise3.java" />
+        <option value="$PROJECT_DIR$/Chapter17/src/exercises/Exercise4.java" />
+        <option value="$PROJECT_DIR$/Chapter17/src/exercises/Exercise5.java" />
       </list>
     </option>
   </component>
@@ -256,224 +302,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaeasy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="waitnotify" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaeasy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaeasy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="threadsleep" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaeasy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="threadname" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaeasy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simplecopier" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaeasy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multithreads" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaeasy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exercises" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaeasy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="currentthread" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -485,7 +313,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.30000004" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="editor" />
+    <property name="options.lastSelected" value="File.Encoding" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -505,15 +333,15 @@
       <recent name="$PROJECT_DIR$/Chapter1/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise2">
-    <configuration default="false" name="OneCopierCopyShop" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.Exercise5">
+    <configuration default="false" name="ByteArrToString" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.javaeasy.simplecopier.*" />
+          <option name="PATTERN" value="com.javaeasy.learnstring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.javaeasy.simplecopier.OneCopierCopyShop" />
+      <option name="MAIN_CLASS_NAME" value="com.javaeasy.learnstring.ByteArrToString" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -522,79 +350,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter15" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="UseSyncCopierCopyShop" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.javaeasy.simplecopier.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.javaeasy.simplecopier.UseSyncCopierCopyShop" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter15" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SimpleWaitNotify" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.javaeasy.waitnotify.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.javaeasy.waitnotify.SimpleWaitNotify" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter15" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Exercise1" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.javaeasy.exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.javaeasy.exercises.Exercise1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter15" />
+      <module name="Chapter17" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -603,11 +359,11 @@
     <configuration default="false" name="Exercise2" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.javaeasy.exercises.*" />
+          <option name="PATTERN" value="exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.javaeasy.exercises.Exercise2" />
+      <option name="MAIN_CLASS_NAME" value="exercises.Exercise2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -616,7 +372,73 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter15" />
+      <module name="Chapter17" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Exercise3" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="exercises.Exercise3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter17" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Exercise4" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="exercises.Exercise4" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter17" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Exercise5" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="exercises.Exercise5" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter17" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -680,19 +502,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.OneCopierCopyShop" />
-      <item index="1" class="java.lang.String" itemvalue="Application.UseSyncCopierCopyShop" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SimpleWaitNotify" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Exercise1" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Exercise2" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ByteArrToString" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Exercise2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Exercise3" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Exercise4" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Exercise5" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Exercise2" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Exercise1" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SimpleWaitNotify" />
-        <item index="3" class="java.lang.String" itemvalue="Application.UseSyncCopierCopyShop" />
-        <item index="4" class="java.lang.String" itemvalue="Application.OneCopierCopyShop" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Exercise5" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Exercise4" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Exercise3" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Exercise2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ByteArrToString" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -751,7 +573,7 @@
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32790223" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31976166" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -759,12 +581,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923076" sideWeight="0.49682683" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1638207" sideWeight="0.22403258" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892057" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3276923" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.326713" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1638207" sideWeight="0.22403258" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22038421" sideWeight="0.67209774" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35336047" sideWeight="0.49682683" order="5" side_tool="false" content_ui="tabs" x="444" y="499" width="1103" height="220" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21510416" sideWeight="0.6802383" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35253227" sideWeight="0.49682683" order="5" side_tool="false" content_ui="tabs" x="444" y="499" width="1103" height="220" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.65441906" order="3" side_tool="true" content_ui="tabs" />
@@ -816,7 +638,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="第14.4~5节示例和习题" />
+    <option name="LAST_COMMIT_MESSAGE" value="第15.4~5示例和第15章习题" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -835,6 +657,7 @@
     <MESSAGE value="第13章习题" />
     <MESSAGE value="第14.1~3节示例" />
     <MESSAGE value="第14.4~5节示例和习题" />
+    <MESSAGE value="第15.4~5示例和第15章习题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -848,116 +671,131 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/threadsleep/TestAddingMain.java">
+    <entry file="file://$PROJECT_DIR$/Chapter17/src/com/javaeasy/genericstypes/NoGenericsTypes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="44" selection-start="209" selection-end="209" vertical-scroll-proportion="0.2136076">
+        <state line="23" column="5" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#379#380#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#521#530#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/multithreads/PrintNumberThread.java">
+    <entry file="file://$PROJECT_DIR$/Chapter17/src/com/javaeasy/learnchar/PrintCharCoder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="59" selection-start="622" selection-end="622" vertical-scroll-proportion="0.0">
+        <state line="15" column="1" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/multithreads/RunMultiPrintNumThread.java">
+    <entry file="file://$PROJECT_DIR$/Chapter17/src/com/javaeasy/learnchar/PrintCodeRange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="34" selection-start="444" selection-end="444" vertical-scroll-proportion="0.35601267">
+        <state line="17" column="23" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/simplecopier/SimpleCopyShop.java">
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/StringCoding.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="57" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0">
+        <state line="66" column="0" selection-start="2818" selection-end="2818" vertical-scroll-proportion="0.8557692">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/simplecopier/OneCopierCopyShop.java">
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/String.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="55" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
+        <state line="76" column="18" selection-start="2687" selection-end="2687" vertical-scroll-proportion="0.21314102">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/simplecopier/Copier.java">
+    <entry file="file://$PROJECT_DIR$/Chapter17/src/com/javaeasy/learnstring/StringToByteArr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
+        <state line="16" column="13" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/simplecopier/Employee.java">
+    <entry file="file://$PROJECT_DIR$/Chapter17/src/com/javaeasy/uselist/UseListMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0">
+        <state line="17" column="53" selection-start="452" selection-end="452" vertical-scroll-proportion="0.26046985">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter17/src/com/javaeasy/usemap/UseMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="5" selection-start="641" selection-end="641" vertical-scroll-proportion="0.3217569">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#339#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter17/src/com/javaeasy/compare/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="29" selection-start="296" selection-end="296" vertical-scroll-proportion="0.2451481">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/simplecopier/UseSyncCopierCopyShop.java">
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/Object.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0">
+        <state line="15" column="19" selection-start="367" selection-end="367" vertical-scroll-proportion="0.2145046">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/waitnotify/Waiting.java">
+    <entry file="file://$PROJECT_DIR$/Chapter17/src/exercises/Goods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="10" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
+        <state line="41" column="18" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/waitnotify/Notifier.java">
+    <entry file="file://$PROJECT_DIR$/Chapter17/src/exercises/Exercise2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="10" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+        <state line="22" column="0" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#358#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter17/src/exercises/Exercise3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="48" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#353#360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter17/src/exercises/Exercise4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="55" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#364#379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter17/src/com/javaeasy/learnstring/ByteArrToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="27" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/waitnotify/SimpleWaitNotify.java">
+    <entry file="file://$PROJECT_DIR$/Chapter17/src/exercises/Exercise5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="31" selection-start="118" selection-end="118" vertical-scroll-proportion="0.1072523">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/MyRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="8" selection-start="178" selection-end="255" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/Exercise1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="23" selection-start="277" selection-end="277" vertical-scroll-proportion="0.16853933">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/ConsoleWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="24" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/MyWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="50" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter15/src/com/javaeasy/exercises/Exercise2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="393" selection-end="393" vertical-scroll-proportion="0.37974682">
+        <state line="21" column="0" selection-start="509" selection-end="509" vertical-scroll-proportion="0.3217569">
           <folding />
         </state>
       </provider>
