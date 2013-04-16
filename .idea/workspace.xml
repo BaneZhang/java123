@@ -2,23 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15b0c89e-cee8-4265-81c0-8e387afbec67" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter18/Chapter18.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter18/src/com/javaeasy/writeandread/ConsoleToFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter18/src/com/javaeasy/fileoperation/CreateFileAndFolder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter18/src/exercises/Exercise1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter18/src/exercises/Exercise2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter18/src/exercises/Exercise3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter18/src/com/javaeasy/fileoperation/ListFolderAndFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter18/src/com/javaeasy/writeandread/ReadDataFromFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter18/src/com/javaeasy/fileoperation/RenameFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter18/src/com/javaeasy/writeandread/WriteDataToFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter19/Chapter19.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsockettcp/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsockettcp/Server.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsocketudp/UDPReceiver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsocketudp/UDPSender.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="java123.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/TestManyMethod.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364199948461" ignored="false" />
-    <file path="/Dummy.txt" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1365752983095" ignored="false" />
+    <file path="/Dummy.txt" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366118789071" ignored="false" />
     <file path="/Bus.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364203482811" ignored="false" />
     <file path="/RaceCar.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364206988832" ignored="false" />
     <file path="/Car.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364207202483" ignored="false" />
@@ -89,6 +84,10 @@
     <file path="/ReadDataFromFile.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366094359859" ignored="false" />
     <file path="/ConsoleToFile.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366099113403" ignored="false" />
     <file path="/a.dummy" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366101413261" ignored="false" />
+    <file path="/Server.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366122612069" ignored="false" />
+    <file path="/Client.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366123819896" ignored="false" />
+    <file path="/UDPReceiver.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366126082885" ignored="false" />
+    <file path="/UDPSender.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366126532199" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +107,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -142,7 +142,6 @@
         <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -152,10 +151,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Exercise1.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter18/src/exercises/Exercise1.java">
+      <file leaf-file-name="Server.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsockettcp/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="649" selection-end="649" vertical-scroll-proportion="0.0">
+            <state line="25" column="51" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -163,10 +162,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise2.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter18/src/exercises/Exercise2.java">
+      <file leaf-file-name="Client.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsockettcp/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="24" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
+            <state line="14" column="16" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -174,23 +173,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise3.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter18/src/exercises/Exercise3.java">
+      <file leaf-file-name="UDPReceiver.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsocketudp/UDPReceiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="39" selection-start="1944" selection-end="1944" vertical-scroll-proportion="0.5432692">
-              <folding />
+            <state line="16" column="18" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListFolderAndFile.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter18/src/com/javaeasy/fileoperation/ListFolderAndFile.java">
+      <file leaf-file-name="UDPSender.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsocketudp/UDPSender.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="9" selection-start="342" selection-end="352" vertical-scroll-proportion="0.0">
+            <state line="25" column="32" selection-start="771" selection-end="825" vertical-scroll-proportion="0.46933666">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#735#741#0" expanded="true" />
-                <element signature="e#787#793#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -215,10 +214,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Chapter17/src/com/javaeasy/learnstring/ByteArrToString.java" />
-        <option value="$PROJECT_DIR$/Chapter17/src/com/javaeasy/compare/Exercise2.java" />
-        <option value="$PROJECT_DIR$/Chapter17/src/exercises/Exercise2.java" />
-        <option value="$PROJECT_DIR$/Chapter17/src/exercises/Goods.java" />
         <option value="$PROJECT_DIR$/Chapter17/src/exercises/Exercise3.java" />
         <option value="$PROJECT_DIR$/Chapter17/src/exercises/Exercise4.java" />
         <option value="$PROJECT_DIR$/Chapter17/src/exercises/Exercise5.java" />
@@ -231,12 +226,50 @@
         <option value="$PROJECT_DIR$/Chapter18/src/exercises/Exercise1.java" />
         <option value="$PROJECT_DIR$/Chapter18/src/exercises/Exercise2.java" />
         <option value="$PROJECT_DIR$/Chapter18/src/exercises/Exercise3.java" />
+        <option value="$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsockettcp/Server.java" />
+        <option value="$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsockettcp/Client.java" />
+        <option value="$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsocketudp/UDPReceiver.java" />
+        <option value="$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsocketudp/UDPSender.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Declaration redundancy</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Portability issues</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -266,8 +299,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -296,7 +327,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter18" />
+              <option name="myItemId" value="Chapter19" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -310,29 +341,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter18" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exercises" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java123.git" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter18" />
+              <option name="myItemId" value="Chapter19" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -344,7 +353,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="writeandread" />
+              <option name="myItemId" value="learnsocketudp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -358,7 +367,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter18" />
+              <option name="myItemId" value="Chapter19" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -367,15 +376,13 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="javaeasy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fileoperation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -385,7 +392,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.30000004" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="fileTemplates" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -393,107 +400,19 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Chapter1/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise3">
-    <configuration default="false" name="ReadDataFromFile" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.javaeasy.writeandread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.javaeasy.writeandread.ReadDataFromFile" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter18" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ConsoleToFile" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.javaeasy.writeandread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.javaeasy.writeandread.ConsoleToFile" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter18" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Exercise1" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise1" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;&quot;$USER_HOME$/Documents/Labs/java123/chapter18/exercise1/exercise1.txt&quot;" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter18" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Exercise2" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="exercises.Exercise2" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;$PROJECT_DIR$/out/production/Chapter17/exercises/&quot;" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter18" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Client">
     <configuration default="false" name="Exercise3" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -511,6 +430,74 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Chapter18" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Server" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.javaeasy.learnsockettcp.Server" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter19" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Client" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.javaeasy.learnsockettcp.Client" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter19" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="UDPReceiver" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.javaeasy.learnsocketudp.UDPReceiver" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter19" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="UDPSender" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.javaeasy.learnsocketudp.UDPSender" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter19" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -574,19 +561,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ReadDataFromFile" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ConsoleToFile" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Exercise1" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Exercise2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Exercise3" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Exercise3" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Server" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Client" />
+      <item index="3" class="java.lang.String" itemvalue="Application.UDPReceiver" />
+      <item index="4" class="java.lang.String" itemvalue="Application.UDPSender" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Exercise3" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Exercise2" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Exercise1" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ConsoleToFile" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ReadDataFromFile" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Client" />
+        <item index="1" class="java.lang.String" itemvalue="Application.UDPSender" />
+        <item index="2" class="java.lang.String" itemvalue="Application.UDPReceiver" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Server" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Exercise3" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -642,12 +629,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31976166" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969216" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40936863" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -658,8 +644,8 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1638207" sideWeight="0.22403258" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21510416" sideWeight="0.64746773" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35253227" sideWeight="0.49682683" order="5" side_tool="false" content_ui="tabs" x="444" y="499" width="1103" height="220" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21458334" sideWeight="0.64812577" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35187423" sideWeight="0.49682683" order="5" side_tool="false" content_ui="tabs" x="444" y="499" width="1103" height="220" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.65441906" order="3" side_tool="true" content_ui="tabs" />
@@ -668,6 +654,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969216" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
@@ -744,55 +731,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter17/src/exercises/Goods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="18" selection-start="780" selection-end="780" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter17/src/exercises/Exercise2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#358#365#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter17/src/exercises/Exercise3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="48" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#353#360#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter17/src/exercises/Exercise4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="55" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#364#379#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter17/src/com/javaeasy/learnstring/ByteArrToString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="27" selection-start="448" selection-end="448" vertical-scroll-proportion="0.19918284">
-          <folding />
-        </state>
+        <state line="13" column="27" selection-start="448" selection-end="448" vertical-scroll-proportion="0.19918284" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter17/src/exercises/Exercise5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="509" selection-end="509" vertical-scroll-proportion="0.3217569">
-          <folding />
-        </state>
+        <state line="21" column="0" selection-start="509" selection-end="509" vertical-scroll-proportion="0.3217569" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter18/src/com/javaeasy/fileoperation/RenameFile.java">
@@ -829,9 +775,7 @@
     </entry>
     <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/io/File.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="24" selection-start="1248" selection-end="1248" vertical-scroll-proportion="0.33299285">
-          <folding />
-        </state>
+        <state line="34" column="24" selection-start="1248" selection-end="1248" vertical-scroll-proportion="0.33299285" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter18/src/com/javaeasy/fileoperation/CreateFileAndFolder.java">
@@ -846,36 +790,64 @@
     <entry file="file://$PROJECT_DIR$/Chapter18/src/exercises/Exercise1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="0" selection-start="649" selection-end="649" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter18/src/com/javaeasy/fileoperation/ListFolderAndFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="9" selection-start="342" selection-end="352" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#735#741#0" expanded="true" />
-            <element signature="e#787#793#0" expanded="true" />
-          </folding>
+        <state line="16" column="9" selection-start="342" selection-end="352" vertical-scroll-proportion="0.2115144">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter18/src/exercises/Exercise2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="24" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter18/src/exercises/Exercise3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="23" selection-start="1422" selection-end="1422" vertical-scroll-proportion="0.39924905">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsockettcp/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="51" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter18/src/exercises/Exercise3.java">
+    <entry file="file://$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsockettcp/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="39" selection-start="1944" selection-end="1944" vertical-scroll-proportion="0.5432692">
-          <folding />
+        <state line="14" column="16" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsocketudp/UDPReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="18" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsocketudp/UDPSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="32" selection-start="771" selection-end="825" vertical-scroll-proportion="0.46933666">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
