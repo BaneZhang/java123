@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15b0c89e-cee8-4265-81c0-8e387afbec67" name="Default" comment="第19章习题">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnButton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnComboBox.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnLabel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnText.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnTextArea.java" />
+    <list default="true" id="15b0c89e-cee8-4265-81c0-8e387afbec67" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learnlayout/LearnBorderLayout.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learnlayout/LearnGridBagLayout.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learnlayout/LearnGridLayout.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="java123.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/TestManyMethod.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364199948461" ignored="false" />
-    <file path="/Dummy.txt" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366556095000" ignored="false" />
+    <file path="/Dummy.txt" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366612544345" ignored="false" />
     <file path="/Bus.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364203482811" ignored="false" />
     <file path="/RaceCar.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364206988832" ignored="false" />
     <file path="/Car.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364207202483" ignored="false" />
@@ -95,6 +93,9 @@
     <file path="/LearnTextArea.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366453083718" ignored="false" />
     <file path="/LearnComboBox.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366460376018" ignored="false" />
     <file path="/LearnButton.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366454049775" ignored="false" />
+    <file path="/LearnBorderLayout.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366601681940" ignored="false" />
+    <file path="/ShowLayoutComponent.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366603218432" ignored="false" />
+    <file path="/LearnGridBagLayout.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366612456450" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,10 +159,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LearnJFrame.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnJFrame.java">
+      <file leaf-file-name="LearnBorderLayout.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter20/src/com/javaeasy/learnlayout/LearnBorderLayout.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="511" selection-end="511" vertical-scroll-proportion="0.35669586">
+            <state line="35" column="12" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LearnGridLayout.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter20/src/com/javaeasy/learnlayout/LearnGridLayout.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LearnGridBagLayout.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter20/src/com/javaeasy/learnlayout/LearnGridBagLayout.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="0.17948718">
               <folding />
             </state>
           </provider>
@@ -186,10 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Chapter18/src/exercises/Exercise1.java" />
-        <option value="$PROJECT_DIR$/Chapter18/src/exercises/Exercise2.java" />
-        <option value="$PROJECT_DIR$/Chapter18/src/exercises/Exercise3.java" />
-        <option value="$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsockettcp/Server.java" />
         <option value="$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsockettcp/Client.java" />
         <option value="$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsocketudp/UDPReceiver.java" />
         <option value="$PROJECT_DIR$/Chapter19/src/com/javaeasy/learnsocketudp/UDPSender.java" />
@@ -202,12 +219,17 @@
         <option value="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnTextArea.java" />
         <option value="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnButton.java" />
         <option value="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnComboBox.java" />
+        <option value="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learnlayout/LearnBorderLayout.java" />
+        <option value="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learnlayout/ShowLayoutComponent.java" />
+        <option value="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learnlayout/LearnGridLayout.java" />
+        <option value="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learnlayout/LearnGridBagLayout.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="1005" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -271,7 +293,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -322,13 +344,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="learncomponent" />
+              <option name="myItemId" value="javaeasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learnlayout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java123.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java123.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter20" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaeasy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -346,53 +394,19 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="FullScreen" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Chapter1/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LearnJFrame">
-    <configuration default="false" name="LearnText" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.javaeasy.learncomponent.LearnText" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter20" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="LearnTextArea" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.javaeasy.learncomponent.LearnTextArea" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter20" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.LearnGridBagLayout">
     <configuration default="false" name="LearnComboBox" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="com.javaeasy.learncomponent.LearnComboBox" />
@@ -410,9 +424,9 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="LearnButton" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="LearnJFrame" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.javaeasy.learncomponent.LearnButton" />
+      <option name="MAIN_CLASS_NAME" value="com.javaeasy.learncomponent.LearnJFrame" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -427,9 +441,58 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="LearnJFrame" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.javaeasy.learncomponent.LearnJFrame" />
+    <configuration default="false" name="LearnBorderLayout" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javaeasy.learnlayout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.javaeasy.learnlayout.LearnBorderLayout" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter20" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ShowLayoutComponent" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javaeasy.learnlayout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.javaeasy.learnlayout.ShowLayoutComponent" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter20" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LearnGridBagLayout" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javaeasy.learnlayout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.javaeasy.learnlayout.LearnGridBagLayout" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -502,19 +565,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.LearnText" />
-      <item index="1" class="java.lang.String" itemvalue="Application.LearnTextArea" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LearnComboBox" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LearnButton" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LearnJFrame" />
+      <item index="0" class="java.lang.String" itemvalue="Application.LearnComboBox" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LearnJFrame" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LearnBorderLayout" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ShowLayoutComponent" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LearnGridBagLayout" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LearnJFrame" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LearnComboBox" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LearnButton" />
-        <item index="3" class="java.lang.String" itemvalue="Application.LearnTextArea" />
-        <item index="4" class="java.lang.String" itemvalue="Application.LearnText" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LearnGridBagLayout" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ShowLayoutComponent" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LearnBorderLayout" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LearnJFrame" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LearnComboBox" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -570,7 +633,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="22" width="1920" height="1005" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31976166" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -581,12 +644,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923076" sideWeight="0.49682683" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1638207" sideWeight="0.22403258" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892057" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.326713" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32637364" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1638207" sideWeight="0.22403258" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21458334" sideWeight="0.60338575" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39661428" sideWeight="0.49682683" order="5" side_tool="false" content_ui="tabs" x="444" y="499" width="1103" height="220" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21458334" sideWeight="0.67362636" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34945056" sideWeight="0.9578125" order="5" side_tool="false" content_ui="tabs" x="444" y="499" width="1103" height="220" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.65441906" order="3" side_tool="true" content_ui="tabs" />
@@ -638,7 +701,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="第19章习题" />
+    <option name="LAST_COMMIT_MESSAGE" value="第20.3节示例" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -660,6 +723,7 @@
     <MESSAGE value="第15.4~5示例和第15章习题" />
     <MESSAGE value="第17章示例和习题" />
     <MESSAGE value="第19章习题" />
+    <MESSAGE value="第20.3节示例" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -673,26 +737,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter18/src/com/javaeasy/fileoperation/CreateFileAndFolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="17" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.6522411" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter18/src/exercises/Exercise1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="649" selection-end="649" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter18/src/com/javaeasy/fileoperation/ListFolderAndFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="9" selection-start="342" selection-end="352" vertical-scroll-proportion="0.2115144" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter18/src/exercises/Exercise2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="24" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter18/src/exercises/Exercise3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="23" selection-start="1422" selection-end="1422" vertical-scroll-proportion="0.39924905" />
@@ -737,13 +781,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnTextArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="27" selection-start="432" selection-end="432" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnButton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="29" selection-start="724" selection-end="724" vertical-scroll-proportion="0.5068836">
@@ -762,7 +799,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnJFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="511" selection-end="511" vertical-scroll-proportion="0.35669586">
+        <state line="5" column="0" selection-start="115" selection-end="115" vertical-scroll-proportion="0.04596527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnTextArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="27" selection-start="432" selection-end="432" vertical-scroll-proportion="0.27579162">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/awt/Component.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="269" column="34" selection-start="10147" selection-end="10147" vertical-scroll-proportion="0.07413793">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter20/src/com/javaeasy/learnlayout/LearnBorderLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="12" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter20/src/com/javaeasy/learnlayout/LearnGridLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter20/src/com/javaeasy/learnlayout/LearnGridBagLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="0.17948718">
           <folding />
         </state>
       </provider>
