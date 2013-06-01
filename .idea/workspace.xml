@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15b0c89e-cee8-4265-81c0-8e387afbec67" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter21/src/com/javaeasy/communication/MessageHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter21/src/com/javaeasy/communication/Messenger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter21/src/com/javaeasy/chat/ChatFrame.java" afterPath="$PROJECT_DIR$/Chapter21/src/com/javaeasy/chat/ChatFrame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter21/src/com/javaeasy/chat/ChatFrameMain.java" afterPath="$PROJECT_DIR$/Chapter21/src/com/javaeasy/chat/ChatFrameMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter21/src/com/javaeasy/utils/ChatUtils.java" afterPath="$PROJECT_DIR$/Chapter21/src/com/javaeasy/utils/ChatUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter21/src/com/javaeasy/chat/InputMessageDialog.java" afterPath="$PROJECT_DIR$/Chapter21/src/com/javaeasy/chat/InputMessageDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter21/src/com/javaeasy/communication/MessageHandler.java" afterPath="$PROJECT_DIR$/Chapter21/src/com/javaeasy/communication/MessageHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter21/src/com/javaeasy/communication/Messenger.java" afterPath="$PROJECT_DIR$/Chapter21/src/com/javaeasy/communication/Messenger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter21/src/com/javaeasy/communication/UDPMessager.java" afterPath="$PROJECT_DIR$/Chapter21/src/com/javaeasy/communication/UDPMessager.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="java123.git.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/TestManyMethod.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364199948461" ignored="false" />
-    <file path="/Dummy.txt" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366618264447" ignored="false" />
+    <file path="/Dummy.txt" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1366686489197" ignored="false" />
     <file path="/Bus.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364203482811" ignored="false" />
     <file path="/RaceCar.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364206988832" ignored="false" />
     <file path="/Car.java" changelist="15b0c89e-cee8-4265-81c0-8e387afbec67" time="1364207202483" ignored="false" />
@@ -162,19 +167,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MessageHandler.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter21/src/com/javaeasy/communication/MessageHandler.java">
+      <file leaf-file-name="InputMessageDialog.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter21/src/com/javaeasy/chat/InputMessageDialog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="59" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0">
+            <state line="9" column="31" selection-start="194" selection-end="212" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Messenger.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter21/src/com/javaeasy/communication/Messenger.java">
+      <file leaf-file-name="ChatFrame.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter21/src/com/javaeasy/chat/ChatFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="0.18386108">
+            <state line="320" column="27" selection-start="10380" selection-end="10380" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#ChatFrame#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UDPMessager.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter21/src/com/javaeasy/communication/UDPMessager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="88" column="56" selection-start="2798" selection-end="2798" vertical-scroll-proportion="0.65798044">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChatFrameMain.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter21/src/com/javaeasy/chat/ChatFrameMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -199,9 +227,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Chapter19/src/exercises/Exercise2.java" />
-        <option value="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnJFrame.java" />
-        <option value="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnLabel.java" />
         <option value="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnText.java" />
         <option value="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnTextArea.java" />
         <option value="$PROJECT_DIR$/Chapter20/src/com/javaeasy/learncomponent/LearnButton.java" />
@@ -215,12 +240,16 @@
         <option value="$PROJECT_DIR$/Chapter20/src/exercises/Exercise1.java" />
         <option value="$PROJECT_DIR$/Chapter21/src/com/javaeasy/communication/MessageHandler.java" />
         <option value="$PROJECT_DIR$/Chapter21/src/com/javaeasy/communication/Messenger.java" />
+        <option value="$PROJECT_DIR$/Chapter21/src/com/javaeasy/utils/ChatUtils.java" />
+        <option value="$PROJECT_DIR$/Chapter21/src/com/javaeasy/chat/InputMessageDialog.java" />
+        <option value="$PROJECT_DIR$/Chapter21/src/com/javaeasy/chat/ChatFrame.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
     <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="height" value="1005" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -316,13 +345,113 @@
               <option name="myItemId" value="Chapter21" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java123.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java123.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter21" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="javaeasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java123.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java123.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter21" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaeasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="communication" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java123.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java123.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter21" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaeasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java123.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java123.git" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter21" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaeasy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatFrame.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -345,7 +474,7 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -357,29 +486,7 @@
       <recent name="$PROJECT_DIR$/Chapter1/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise1">
-    <configuration default="false" name="LearnBorderLayout" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.javaeasy.learnlayout.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.javaeasy.learnlayout.LearnBorderLayout" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Chapter20" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.ChatFrameMain">
     <configuration default="false" name="ShowLayoutComponent" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -468,6 +575,28 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="ChatFrameMain" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javaeasy.chat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.javaeasy.chat.ChatFrameMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Chapter21" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -526,19 +655,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.LearnBorderLayout" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ShowLayoutComponent" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LearnGridBagLayout" />
-      <item index="3" class="java.lang.String" itemvalue="Application.HandleEvent" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Exercise1" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ShowLayoutComponent" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LearnGridBagLayout" />
+      <item index="2" class="java.lang.String" itemvalue="Application.HandleEvent" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Exercise1" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ChatFrameMain" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Exercise1" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HandleEvent" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LearnGridBagLayout" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ShowLayoutComponent" />
-        <item index="4" class="java.lang.String" itemvalue="Application.LearnBorderLayout" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ChatFrameMain" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Exercise1" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HandleEvent" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LearnGridBagLayout" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ShowLayoutComponent" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -594,7 +723,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="0" y="22" width="1920" height="1005" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31976166" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -606,11 +735,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923076" sideWeight="0.49682683" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1638207" sideWeight="0.22403258" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892057" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29493546" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2945055" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1638207" sideWeight="0.22403258" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21458334" sideWeight="0.6514399" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.184375" sideWeight="0.7054945" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34856007" sideWeight="0.9578125" order="5" side_tool="false" content_ui="tabs" x="444" y="499" width="1103" height="220" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -662,7 +791,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="第20章习题" />
+    <option name="LAST_COMMIT_MESSAGE" value="第21章聊天程序换行符修改" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -686,6 +815,9 @@
     <MESSAGE value="第19章习题" />
     <MESSAGE value="第20.3节示例" />
     <MESSAGE value="第20章习题" />
+    <MESSAGE value="第21章消息处理和收发模块接口" />
+    <MESSAGE value="第21章聊天程序" />
+    <MESSAGE value="第21章聊天程序换行符修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -699,41 +831,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter6/src/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/src/Motorcade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/src/PrintDriverProps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/src/UseCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter8/src/common/RaceCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="85" selection-end="85" vertical-scroll-proportion="0.1072523">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter8/src/common/Bus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="13" selection-start="85" selection-end="85" vertical-scroll-proportion="0.1072523">
@@ -807,17 +904,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter21/src/com/javaeasy/communication/MessageHandler.java">
+    <entry file="file://$PROJECT_DIR$/Chapter21/src/com/javaeasy/utils/ChatUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="59" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="12" column="41" selection-start="348" selection-end="357" vertical-scroll-proportion="0.18386108">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter21/src/com/javaeasy/communication/Messenger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="0.18386108">
+        <state line="11" column="0" selection-start="254" selection-end="254" vertical-scroll-proportion="0.16853933">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter21/src/com/javaeasy/communication/MessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="162" selection-end="162" vertical-scroll-proportion="0.1072523">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter21/src/com/javaeasy/chat/ChatFrameMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter21/src/com/javaeasy/chat/InputMessageDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="31" selection-start="194" selection-end="212" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter21/src/com/javaeasy/chat/ChatFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="320" column="27" selection-start="10380" selection-end="10380" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#ChatFrame#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter21/src/com/javaeasy/communication/UDPMessager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="56" selection-start="2798" selection-end="2798" vertical-scroll-proportion="0.65798044">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
